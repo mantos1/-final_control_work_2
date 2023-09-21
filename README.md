@@ -11,9 +11,11 @@
 Переименовать файл, дав ему новое имя (Друзья человека).***
 
 :exclamation::exclamation::exclamation: <span style="color:red">***Сразу перешел в режим su***</span>.:exclamation::exclamation::exclamation:
+
 ```
-*sudo su*
+sudo su
 ```
+
 Далее
 ```
 cat > "Домашние животные"
